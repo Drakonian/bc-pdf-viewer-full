@@ -113,6 +113,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Document Attachment Det - Action PDFV2 View PDF - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2767462351 - Action 3638416715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 960449109">
+          <source>View PDF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Report Inbox Part - Action PDFV2 View PDF - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2767462351 - Action 3638416715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 960449109">
+          <source>View PDF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Report Inbox Part - Action PDFV2 View PDF - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PermissionSet 1415071626 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Viewer</source>
           <note from="Developer" annotates="general" priority="2"></note>
