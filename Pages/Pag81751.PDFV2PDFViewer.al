@@ -26,7 +26,7 @@ page 81751 "PDFV2 PDF Viewer"
     var
         Base64Convert: Codeunit "Base64 Convert";
     begin
-        PDFAsTxt := PDFAliasLbl + Base64Convert.ToBase64(PDFInStream);
+        PDFAsTxt := Base64Convert.ToBase64(PDFInStream);
     end;
 
     var
